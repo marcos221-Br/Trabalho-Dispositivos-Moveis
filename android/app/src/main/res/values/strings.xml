@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">trabalho-desenvolvimento-dipositivos-moveis</string>
+    <string name="title_activity_main">trabalho-desenvolvimento-dipositivos-moveis</string>
+    <string name="package_name">trabalho.desenvolvimento.dipositivos.moveis</string>
+    <string name="custom_url_scheme">trabalho.desenvolvimento.dipositivos.moveis</string>
+</resources>
